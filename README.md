@@ -5,8 +5,8 @@ Meu objetivo é crescer profissionalmente como desenvolvedor Front-End e constru
 
 📘 **Atualmente estudando e praticando com:**
 
-📚 -Atualmente estou estudando programação front-End, com HTML, CSS e JS
-📚 -Lógica de programação em C e JS
+📚 -Atualmente estou estudando programação front-End, com HTML, CSS e JS<br>
+📚 -Lógica de programação em C e JS<br>
 📚 -Diagramação de sites
 
 🎯 **Foco atual:**
@@ -16,6 +16,7 @@ Meu objetivo é crescer profissionalmente como desenvolvedor Front-End e constru
 - Aprendizado contínuo e experiências práticas
 
 ---
+
 ## 🧰 Ferramentas
 
 <div>
@@ -44,4 +45,3 @@ Meu objetivo é crescer profissionalmente como desenvolvedor Front-End e constru
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=paulovcarraro&show_icons=true&theme=tokyonight)
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=paulovcarraro&layout=compact&theme=tokyonight)
-
