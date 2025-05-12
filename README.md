@@ -16,13 +16,20 @@ Meu objetivo é crescer profissionalmente como desenvolvedor Front-End e constru
 - Aprendizado contínuo e experiências práticas
 
 ---
+## 🧰 Ferramentas
 
-## 🧰 Linguagens e Ferramentas
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+## 🧑‍💻 Linguagens
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+</div>
 
 ---
 
@@ -35,5 +42,6 @@ Meu objetivo é crescer profissionalmente como desenvolvedor Front-End e constru
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=seuUsuarioGitHub&show_icons=true&theme=tokyonight)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seuUsuarioGitHub&layout=compact&theme=tokyonight)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=paulovcarraro&show_icons=true&theme=tokyonight)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=paulovcarraro&layout=compact&theme=tokyonight)
+
