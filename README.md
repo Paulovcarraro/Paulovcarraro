@@ -1,4 +1,7 @@
-# Olá, eu sou Paulo Vinícius 🧑‍💻
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=53B14F&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+Paulo+Vinícius+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+</h1>
+
 
 Faço **Engenharia de Software presencialmente na Unicesumar** (campus Londrina), estou cursando o **3º semestre**.  
 Meu objetivo é crescer profissionalmente como desenvolvedor Front-End e construir soluções úteis com tecnologia.
