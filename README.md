@@ -2,13 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=53B14F&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+Paulo+Vinícius+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
-
 Faço **Engenharia de Software presencialmente na Unicesumar** (campus Londrina), estou cursando o **3º semestre**.  
 Meu objetivo é crescer profissionalmente como desenvolvedor Front-End e construir soluções úteis com tecnologia.
 
 📘 **Atualmente estudando e praticando com:**
 
-📚 -Atualmente estou estudando programação front-End, com HTML, CSS e JS<br>
+📚 -No momento estou estudando programação front-End, com HTML, CSS e JS<br>
+📚 -Integração de banco de dados com Java e MySQL<br>
 📚 -Lógica de programação em C e JS<br>
 📚 -Diagramação de sites
 
@@ -29,6 +29,7 @@ Meu objetivo é crescer profissionalmente como desenvolvedor Front-End e constru
 
 </div>
 
+---
 
 ## 🧰 Ferramentas
 
