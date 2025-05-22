@@ -20,6 +20,16 @@ Meu objetivo é crescer profissionalmente como desenvolvedor Front-End e constru
 
 ---
 
+## 🚀 Tecnologias que estou aprendendo
+
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+
+</div>
+
+
 ## 🧰 Ferramentas
 
 <div>
